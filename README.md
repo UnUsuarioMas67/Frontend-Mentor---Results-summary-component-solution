@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](design\end-result.png)
+![Screenshot](https://raw.githubusercontent.com/UnUsuarioMas67/Frontend-Mentor---Results-summary-component-solution/main/design/end-result.png)
 
 ### Links
 
